@@ -8,4 +8,13 @@ if A == B:
           A,B)   
 else:
     print('ten bolmadi!!!',
-          A,B)
+    A,B)
+
+
+a = random.randint(1,10)
+print(a,A)
+
+
+b = 20 
+c = 40 
+print(b*c)
